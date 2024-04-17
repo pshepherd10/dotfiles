@@ -1,7 +1,7 @@
 #!/usr/bin/env pwsh
 
-$env:AzureSubscriptionId = '16eb6e57-e88b-49c9-8acb-26048bee1f93'
-$env:NetworkSubscriptionId = '8a53cb9a-a3a5-4602-aa2d-8c171edde3c7'
+$env:AzureSubscriptionId = '6d3acc75-039d-4a84-a0c2-883e492a72dd'
+$env:NetworkSubscriptionId = '9ed6f940-4ca4-4512-a8f8-a08f8d151201'
 $env:AZUREREGION = 'eastus'
 
 $cheatSheet = ""
